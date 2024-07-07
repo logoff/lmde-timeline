@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bc54cdbc.css","mappings":"AAAA,MACI,wBACJ,CAEA,KACI,sBAAuB,CACvB,iBACJ","sources":["styles.css"],"sourcesContent":["#root {\n    background-color: lightgrey;\n}\n\n.App {\n    font-family: sans-serif;\n    text-align: center;\n}"],"names":[],"sourceRoot":""}
