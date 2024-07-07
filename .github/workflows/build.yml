@@ -20,4 +20,7 @@ jobs:
           wget -O - -o /dev/null "https://docs.google.com/spreadsheets/d/1w5Q2N01Szz0vNKXoG2V4ORiXfsAvre6Vk_pckevYZLk/export?format=tsv" > public/crono.tsv
           npm ci --include=dev
           npm run build
-          npx gh-pages -d build
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
