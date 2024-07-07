@@ -1,5 +1,6 @@
 {
   "name": "lmde-timeline",
+  "homepage": "https://logoff.github.io/lmde-timeline/",
   "version": "0.1.0",
   "main": "/src/index.js",
   "scripts": {
