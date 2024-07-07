@@ -1,0 +1,11 @@
+# fichero de cronología
+public/*.tsv
+
+# Visual Studio Code folder
+.vscode/
+
+# Node-js packages folder
+node_modules/
+
+# build folder
+build
