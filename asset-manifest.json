@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lmde-timeline/static/css/main.bc54cdbc.css",
-    "main.js": "/lmde-timeline/static/js/main.2f2b0686.js",
+    "main.js": "/lmde-timeline/static/js/main.1f852582.js",
     "index.html": "/lmde-timeline/index.html",
     "main.bc54cdbc.css.map": "/lmde-timeline/static/css/main.bc54cdbc.css.map",
-    "main.2f2b0686.js.map": "/lmde-timeline/static/js/main.2f2b0686.js.map"
+    "main.1f852582.js.map": "/lmde-timeline/static/js/main.1f852582.js.map"
   },
   "entrypoints": [
     "static/css/main.bc54cdbc.css",
-    "static/js/main.2f2b0686.js"
+    "static/js/main.1f852582.js"
   ]
 }
